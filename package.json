@@ -1,6 +1,7 @@
 {
   "name": "ck-motivation",
   "displayName": "CK Motivation",
+  "publisher": "PatrickPan",
   "description": "need motivation? let ck help you",
   "version": "0.0.1",
   "icon": "images/ck-motivate-logo.png",
